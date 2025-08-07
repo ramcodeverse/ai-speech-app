@@ -99,13 +99,7 @@ cd client
 npm start
 ```
 
----
 
-## 💬 Demo
-
-[https://github.com/ramcodeverse/ai-speech-app/assets/demo.gif](https://github.com/ramcodeverse/ai-speech-app/assets/demo.gif) *(Optional: Include a demo GIF or link to video demo)*
-
----
 
 ## ✨ Example Prompt
 
@@ -135,12 +129,3 @@ For questions or feedback:
 🌐 GitHub: [github.com/ramcodeverse](https://github.com/ramcodeverse)
 
 ---
-
-> **Built with ❤️ for the internship assignment by Natasha.**
-
-```
-
----
-
-Let me know if you'd like to auto-generate the `.env.example`, add badges, or deploy instructions for Vercel/Render/Netlify!
-```
